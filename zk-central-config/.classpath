@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java"/>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources"/>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java"/>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/suhas.aggarwal/Downloads/kept-collections-0.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suhas.aggarwal/Downloads/anthonyu-KeptCollections-6b9cb6b/anthonyu-KeptCollections-6b9cb6b/lib/zookeeper-3.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suhas.aggarwal/Downloads/anthonyu-KeptCollections-6b9cb6b/anthonyu-KeptCollections-6b9cb6b/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/suhas.aggarwal/Downloads/anthonyu-KeptCollections-6b9cb6b/anthonyu-KeptCollections-6b9cb6b/lib/junit-4.8.2.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
